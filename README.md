@@ -1273,25 +1273,24 @@ OSPF detecta la caida del enlace, redistribuye los LSAs y recalcula el SPF en mi
 
 ```
 REDES2_1S2026_202201336/
-└── Proyecto1/
-    ├── README.md                    <- Este manual tecnico
-    ├── Proyecto1_202201336.pkt      <- Archivo de simulacion Cisco Packet Tracer
-    └── imagenes/                    <- Carpeta de capturas de pantalla
-        ├── topologia_general.png
-        ├── tabla_enrutamiento_ospf.png
-        ├── ospf_neighbors.png
-        ├── show_ip_route_core_izq.png
-        ├── etherchannel_lacp_status.png
-        ├── etherchannel_pagp_status.png
-        ├── show_etherchannel_summary_core_izq.png
-        ├── show_vtp_status.png
-        ├── ping_verde_izq_a_verde_der.png
-        ├── ping_naranja_izq_a_naranja_der.png
-        ├── ping_admin_a_todos.png
-        ├── acl_bloqueo_verde_a_naranja.png
-        ├── acl_bloqueo_usuario_a_admin.png
-        ├── lacp_failover_fa01_shutdown.png
-        └── pagp_failover_fa04_shutdown.png
+├── README.md                        <- Este manual tecnico
+├── Proyecto1_202201336.pkt          <- Archivo de simulacion Cisco Packet Tracer
+├── [RC2]Proyecto 1.pdf              <- Enunciado oficial del proyecto
+└── imagenes/                        <- Capturas de pantalla de la simulacion
+    ├── image.png
+    ├── image-1.png
+    ├── image-2.png
+    ├── image-3.png
+    ├── image-4.png
+    ├── image-5.png
+    ├── image-6.png
+    ├── image-7.png
+    ├── image-8.png
+    ├── image-9.png
+    ├── image-10.png
+    ├── image-11.png
+    ├── image-12.png
+    └── image-13.png
 ```
 
 ---
